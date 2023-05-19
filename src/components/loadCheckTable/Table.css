@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Montserrat:wght@700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "DM Sans", sans-serif;
+  @apply text-gray-500;
+}
+
+.thead {
+    font-size: 14px;
+    vertical-align: auto;
+}
+
+.row {
+    font-size: 14px;
+}
+
+.row-sm {
+  padding-block: 8px;
+  font-size: 16px;
+  margin: 0.5rem 0rem;
+  padding: 0.5rem 1.2rem;
+}
+
+.form-check-input{
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.checkbox {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.headwork {
+  font-size: 22px;
+  color: black;
+  font-weight: 550;
+}
+
+.headspe {
+  font-size: 22px;
+  color: black;
+  font-weight: 650;
+}
+
+.addSpe{
+  font-size: 18px;
+  color: black;
+  font-weight: 600;
+  text-align: right;
+
+}

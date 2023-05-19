@@ -1,0 +1,26 @@
+.Signbtn {
+    color: white;
+    background-color: #E35205;
+    opacity: 85%;
+    border: none;
+    box-shadow: 3px 3px 3px #5453535f;
+}
+
+.cardLogin {
+    justify-content: center;
+    width: 50%;
+    border: none;
+    box-shadow: 3px 3px 3px #5453535f;
+}
+
+.text {
+    color: #B5B5B5;
+    font-size: 30px;
+    margin-top: 6rem;
+    margin-left: 28rem;
+    font-family: "DM Sans", sans-serif;
+}
+
+.form {
+    font-family: "DM Sans", sans-serif;
+}

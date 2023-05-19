@@ -1,0 +1,57 @@
+.button {
+    padding: 6px;
+    width: 100px;
+    background-color: #E35205;
+    display:grid;
+    justify-content: center;
+    border-radius: 30px;
+    border-color: #E35205;
+    box-shadow: 3px 3px 4px #00000034;
+    text-align: center;
+}
+
+.button-save {
+    padding: 6px;
+    width: 100px;
+    background-color: white;
+    display:grid;
+    justify-content: center;
+    border-radius: 30px;
+    border-color:  #E35205;
+    box-shadow: 3px 3px 4px #00000034;
+    color: #000;
+    text-align: center;
+}
+
+.button-add {
+    padding: 6px;
+    width: 100px;
+    background-color: #00000034;
+    display:grid;
+    justify-content: center;
+    border-radius: 10px;
+    border-color:  #E35205;
+    box-shadow: 3px 3px 4px #00000034;
+    color: #000;
+    text-align: center;
+}
+
+.disable  {
+    padding: 6px;
+    width: 150px;
+    background-color: #797674;
+    display:grid;
+    justify-content: center;
+    border-radius: 60px;
+    border-color: #797674;
+    box-shadow: 3px 3px 4px #00000034;
+    text-align: center;
+}
+
+.element {
+    padding: 1rem;
+}
+
+.justify {
+    justify-content: end;
+}

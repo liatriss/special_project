@@ -1,0 +1,29 @@
+.expand {
+    padding: 6px;
+    width: 150px;
+    background-color: #E35205;
+    display:grid;
+    justify-content: center;
+    border-radius: 60px;
+    border-color: #E35205;
+    box-shadow: 3px 3px 4px #00000034;
+    text-align: center;
+  }
+
+.button {
+  font-size: 14px;
+  justify-content: center;
+  color: white;
+}
+
+.disable  {
+  padding: 6px;
+  width: 150px;
+  background-color: #797674;
+  display:grid;
+  justify-content: center;
+  border-radius: 60px;
+  border-color: #797674;
+  box-shadow: 3px 3px 4px #00000034;
+  text-align: center;
+}

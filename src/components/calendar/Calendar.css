@@ -1,0 +1,34 @@
+.schedule {
+    font-size: 18px;
+}
+
+.Day {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.bin{
+    width: 20px;
+    height: 20px;
+    opacity: 0.5;
+}
+
+.close {
+    width: 20px;
+    height: 20px;
+    opacity: 0.5;
+}
+
+.back {
+    width: 20px;
+    height: 20px;
+}
+
+.next {
+    width: 20px;
+    height: 20px;
+}
+
+.create {
+    /* background: #FFF6E9; */
+}

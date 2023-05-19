@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Montserrat:wght@700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root,
+.app{
+    height: 100%;
+    width:100%;
+    font-family: "DM Sans", sans-serif;
+    @apply text-gray-600;
+}
+
+.head {
+    font-size: 22px;
+    color: black;
+
+}
+
+.thead{
+    font-size: 14px;
+    vertical-align: auto;
+}
+
+.Table {
+    padding: 50px;
+}
+
+.search {
+    float: right;
+    font-size: 20px;
+    border-radius: 60px;
+}
